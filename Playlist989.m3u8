@@ -1,0 +1,4 @@
+pkg update -y && pkg upgrade -y
+pkg install python -y
+pip install yt-dlp
+yt-dlp -g -f best "https://www.youtube.com/watch?v=kEJX3uJRyKs"
