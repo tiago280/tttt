@@ -1,0 +1,3 @@
+$ yt-dlp -g -f best https://www.youtube.com/watch?v=XX_LIVE_VIDEO_ID
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/.../playlist/index.m3u8
+https://rr1---sn-.../videoplayback?expire=...&mime=audio%2Fwebm&...
